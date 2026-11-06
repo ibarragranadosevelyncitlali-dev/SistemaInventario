@@ -1,0 +1,4 @@
+ID,Nombre,Cantidad
+1,Laptop,10
+2,Mouse,10
+3,Teclado,15
