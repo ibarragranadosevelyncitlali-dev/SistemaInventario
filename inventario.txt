@@ -1,4 +1,4 @@
 Inventario inicial
 
-Total de productos: 3
+Total de productos: 5
 Estado: En desarrollo
